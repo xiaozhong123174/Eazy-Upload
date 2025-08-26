@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: api
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 100MB
+
+upload:
+  base-dir: uploads
