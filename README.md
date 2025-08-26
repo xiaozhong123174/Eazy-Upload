@@ -4,13 +4,16 @@
 
 
 # 初始化安装
-## 安装前端
+## 1.安装前端
 > 进入 \Eazy-Upload\web 目录执行
 ```js
 npm i
 ```
 <img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/765d8d81-a4e9-4f3d-ae53-32db9a503e2d" />
 
+
+## 2.安装后端
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/abb4e935-6f77-4b04-b69f-aba056c9cae0" />
 
 
 # 示例效果
